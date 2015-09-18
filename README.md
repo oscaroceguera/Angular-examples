@@ -16,6 +16,3 @@ star
 ```
 $ gulp
 ```
-
-## Branch :: Custom-Filters
-Filtros sencillos con angularjs
